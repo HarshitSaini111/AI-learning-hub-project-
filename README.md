@@ -43,7 +43,7 @@ AI-Learning-Hub/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AI-Learning-Hub.git
+git clone https://github.com/HarshitSaini111/AI-learning-hub-project-.git
 ```
 
 2. Open the project folder.
@@ -75,7 +75,7 @@ git clone https://github.com/your-username/AI-Learning-Hub.git
 
 **Harshit Saini**
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/HarshitSaini111
 
 ---
 
